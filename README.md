@@ -7,6 +7,8 @@
 #### - [WUT-TUM-Bot](https://github.com/JThyroff/WUT-TUM-Bot): A discord bot that came to life during covid times.
 #### - [MiraklConnector](https://github.com/JThyroff/miraklconnector): Integrate Mirakl Orders in Prestashop.
 #### - [RSA](https://github.com/JThyroff/RSA): High school project - RSA demonstration.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jthyroff)](https://github.com/jthyroff/github-readme-stats)
 <!--
 **JThyroff/JThyroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
