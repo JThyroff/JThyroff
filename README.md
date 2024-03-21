@@ -8,7 +8,8 @@
 #### - [MiraklConnector](https://github.com/JThyroff/miraklconnector): Integrate Mirakl Orders in Prestashop.
 #### - [RSA](https://github.com/JThyroff/RSA): High school project - RSA demonstration.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jthyroff)](https://github.com/jthyroff/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jthyroff&exclude_repo=repo1,repo2&hide=makefile,cmake&langs_count=5)](https://github.com/jthyroff)
+
 <!--
 **JThyroff/JThyroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
