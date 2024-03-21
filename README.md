@@ -1,8 +1,13 @@
-### Selected Repositories
-- [ImgSteg](https://github.com/JThyroff/ImgSteg): A image steganography program. Hide and reveal secret messages in images.
-- [WideGPT](https://github.com/JThyroff/WideGPT): A Firefox plugin to widen GPT answer space.
-- [MVG_Widget](https://github.com/JThyroff/MVG_Widget): A widget displaying public transport connections on a raspberry pi.
-- ...
+## Selected Repositories
+### - [ImgSteg](https://github.com/JThyroff/ImgSteg): A image steganography program. Hide and reveal secret messages in images.
+### - [WideGPT](https://github.com/JThyroff/WideGPT): A Firefox plugin to widen GPT answer space.
+### - [MVG_Widget](https://github.com/JThyroff/MVG_Widget): A widget displaying public transport connections on a raspberry pi.
+### - [ImageGenerator](https://github.com/JThyroff/ImageGenerator): Generates images recursively.
+
+### - [BrokenCloneTracker](https://github.com/JThyroff/BrokenCloneTracker): Prototype from my Bachelor Thesis.
+### - [WUT-TUM-Bot](https://github.com/JThyroff/WUT-TUM-Bot): A discord bot that came to life during covid times.
+### - [MiraklConnector](https://github.com/JThyroff/miraklconnector): Integrate Mirakl Orders in Prestashop.
+### - [RSA](https://github.com/JThyroff/RSA): High school project - RSA demonstration.
 <!--
 **JThyroff/JThyroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
