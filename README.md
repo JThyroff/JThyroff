@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Selected Repositories
+- [ImgSteg](https://github.com/JThyroff/ImgSteg): A image steganography program. Hide and reveal secret messages in images.
+- [WideGPT](https://github.com/JThyroff/WideGPT): A Firefox plugin to widen GPT answer space.
+- [MVG_Widget](https://github.com/JThyroff/MVG_Widget): A widget displaying public transport connections on a raspberry pi.
+- ...
 <!--
 **JThyroff/JThyroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
