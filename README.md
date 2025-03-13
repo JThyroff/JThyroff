@@ -1,7 +1,8 @@
 ## Selected Repositories
 #### - [ImgSteg](https://github.com/JThyroff/ImgSteg): An image steganography program. Hide and reveal secret messages in images.
 #### - [WideGPT](https://github.com/JThyroff/WideGPT): A Firefox plugin to widen GPT answer space.
-#### - [Wide-Le-Chat](https://github.com/JThyroff/Wide-Le-Chat): A Firefox plugin to widen Le-Chat answer space.
+#### - [Wide-Le-Chat](https://github.com/JThyroff/Wide-Le-Chat): A Firefox/Chrome plugin to widen Le-Chat answer space.
+#### - [Leitner Spaced Repetition](https://github.com/JThyroff/LeitnerSpacedRepetition): A Firefox/Chrome plugin to simplify usage of the Leitner Spaced Repetition system. 
 #### - [MVG_Widget](https://github.com/JThyroff/MVG_Widget): A widget displaying public transport connections on a raspberry pi.
 #### - [ImageGenerator](https://github.com/JThyroff/ImageGenerator): Generates images recursively.
 #### - [BrokenCloneTracker](https://github.com/JThyroff/BrokenCloneTracker): Prototype from my Bachelor Thesis.
