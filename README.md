@@ -12,6 +12,7 @@
 #### - [RSA](https://github.com/JThyroff/RSA): High school project - RSA demonstration.
 
 ## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=jthyroff)](https://github.com/jthyroff/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=jthyroff&hide=makefile,cmake&langs_count=5)](https://github.com/jthyroff)
 
 
