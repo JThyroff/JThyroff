@@ -1,4 +1,5 @@
 ## Selected Repositories
+#### - [zapvis](https://github.com/JThyroff/zapvis/): A lightweight image sequence viewer with support for local and remote (SSH) files.
 #### - [ImgSteg](https://github.com/JThyroff/ImgSteg): An image steganography program. Hide and reveal secret messages in images.
 #### - [WideGPT](https://github.com/JThyroff/WideGPT): A Firefox plugin to widen GPT answer space.
 #### - [Wide-Le-Chat](https://github.com/JThyroff/Wide-Le-Chat): A Firefox/Chrome plugin to widen Le-Chat answer space.
